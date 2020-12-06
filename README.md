@@ -6,7 +6,6 @@ Ionic wrapper for plugin https://github.com/7h4r05/cordova-plugin-crop
 
 ## Ionic / Typescript Example Angular 10 Service
 
-<img src="screenshot-example.png" width="250" height="500">
 
 This is an example service that uses ionic-native's built in camera and the 7h4r05@cordova-plugin-crop to create a cropped version of the image and return the file path. 
 
